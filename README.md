@@ -27,6 +27,7 @@ console.log('List of supported encodings', encodings);
 const { encodings } = require "@atxmtx/encodings"
 
 console.log "List of supported encodings", encodings
+```
 
 ## License
 
