@@ -215,4 +215,4 @@ function getActiveTextEditorEncoding() {
 export {
   encodings,
   getActiveTextEditorEncoding
-}
+};
