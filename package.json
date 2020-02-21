@@ -1,6 +1,6 @@
 {
   "name": "@atxmtx/encodings",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "List of supported Atom text encodings",
   "license": "MIT OR GPL-2.0",
   "scripts": {
