@@ -1,15 +1,15 @@
-# @atxmtx/encodings
+# @atxm/encodings
 
-[![npm](https://flat.badgen.net/npm/license/@atxmtx/encodings)](https://www.npmjs.org/package/@atxmtx/encodings)
-[![npm](https://flat.badgen.net/npm/v/@atxmtx/encodings)](https://www.npmjs.org/package/@atxmtx/encodings)
-[![CircleCI](https://flat.badgen.net/circleci/github/atxmtx/encodings)](https://circleci.com/gh/atxmtx/encodings)
-[![David](https://flat.badgen.net/david/dep/atxmtx/encodings)](https://david-dm.org/atxmtx/encodings)
+[![npm](https://flat.badgen.net/npm/license/@atxm/encodings)](https://www.npmjs.org/package/@atxm/encodings)
+[![npm](https://flat.badgen.net/npm/v/@atxm/encodings)](https://www.npmjs.org/package/@atxm/encodings)
+[![CircleCI](https://flat.badgen.net/circleci/github/atxm/encodings)](https://circleci.com/gh/atxm/encodings)
+[![David](https://flat.badgen.net/david/dep/atxm/encodings)](https://david-dm.org/atxm/encodings)
 
 List of supported Atom text encodings
 
 ## Installation
 
-`npm install @atxmtx/encodings -S`
+`npm install @atxm/encodings -S`
 
 ## Usage
 
@@ -17,14 +17,14 @@ List of supported Atom text encodings
 
 ```js
 // JavaScript
-import { encodings } from '@atxmtx/encodings';
+import { encodings } from '@atxm/encodings';
 
 console.log('List of supported encodings', encodings);
 ```
 
 ```coffee
 # CoffeeScript
-const { encodings } = require "@atxmtx/encodings"
+const { encodings } = require "@atxm/encodings"
 
 console.log "List of supported encodings", encodings
 ```

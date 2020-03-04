@@ -1,5 +1,5 @@
 {
-  "name": "@atxmtx/encodings",
+  "name": "@atxm/encodings",
   "version": "0.1.0",
   "description": "List of supported Atom text encodings",
   "license": "MIT OR GPL-2.0",
@@ -12,7 +12,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atxmtx/encodings.git"
+    "url": "https://github.com/atxm/encodings.git"
   },
   "keywords": [
     "atom",
