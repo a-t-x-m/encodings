@@ -4,7 +4,7 @@
   "description": "List of supported Atom text encodings",
   "license": "MIT OR GPL-2.0",
   "scripts": {
-    "build": "tsc --pretty --project ./",
+    "build": "rimraf tsconfig.tsbuildinfo && tsc --pretty --project ./",
     "dev": "tsc --watch --pretty --project ./",
     "lint": "tslint --project ./",
     "test": "npm run lint"
@@ -23,6 +23,7 @@
     "@types/atom": "^1.36.2",
     "@types/node": "^13.7.0",
     "husky": "^4.2.1",
+    "rimraf": "^3.0.2",
     "tslint": "^6.0.0",
     "typescript": "^3.7.5"
   },
