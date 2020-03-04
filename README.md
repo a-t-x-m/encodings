@@ -2,8 +2,8 @@
 
 [![npm](https://flat.badgen.net/npm/license/@atxm/encodings)](https://www.npmjs.org/package/@atxm/encodings)
 [![npm](https://flat.badgen.net/npm/v/@atxm/encodings)](https://www.npmjs.org/package/@atxm/encodings)
-[![CircleCI](https://flat.badgen.net/circleci/github/atxm/encodings)](https://circleci.com/gh/atxm/encodings)
-[![David](https://flat.badgen.net/david/dep/atxm/encodings)](https://david-dm.org/atxm/encodings)
+[![CircleCI](https://flat.badgen.net/circleci/github/a-t-x-m/encodings)](https://circleci.com/gh/a-t-x-m/encodings)
+[![David](https://flat.badgen.net/david/dep/a-t-x-m/encodings)](https://david-dm.org/a-t-x-m/encodings)
 
 List of supported Atom text encodings
 

@@ -12,7 +12,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atxm/encodings.git"
+    "url": "https://github.com/a-t-x-m/encodings.git"
   },
   "keywords": [
     "atom",
