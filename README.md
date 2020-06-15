@@ -24,7 +24,7 @@ console.log('List of supported encodings', encodings);
 
 ```coffee
 # CoffeeScript
-const { encodings } = require "@atxm/encodings"
+{ encodings } = require "@atxm/encodings"
 
 console.log "List of supported encodings", encodings
 ```
